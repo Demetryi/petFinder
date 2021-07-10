@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809272936052",
+    "project_id": "petfinder-dx",
+    "storage_bucket": "petfinder-dx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809272936052:android:a164cc596a25c06d08b321",
+        "android_client_info": {
+          "package_name": "com.dxon.pet_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809272936052-2759mujboegl6l27764e12locboj34c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfRIEYDux4cC0MDiR5OjZAWV27q_gEyS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809272936052-2759mujboegl6l27764e12locboj34c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
